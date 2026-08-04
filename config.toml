@@ -1,0 +1,8 @@
+baseURL = 'https://888niub.com/'
+languageCode = 'zh-CN'
+title = '888牛人导航 - 效率黑科技与AI工具精选'
+theme = 'WebStack-Hugo'
+
+[params]
+  title = "888牛人导航"
+  description = "汇集全球精选AI工具、效率黑科技、副业干货"
